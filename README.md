@@ -1,4 +1,4 @@
-##Climate Aplication
+##Weather Aplication
 
 
 Remember to run ```npm install``` for libraries
